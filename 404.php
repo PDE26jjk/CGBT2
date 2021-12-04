@@ -1,7 +1,7 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html lang="en">
 <head>
-	<title>404 - Lost in the space?</title>
+	<title>404 - Lost in the space?  </title>
 	<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
 	<meta http-equiv="content-language" content="en">
 	<meta name="description" content="javascript+canvas starfield">
