@@ -1,4 +1,4 @@
-由于时间不足，暂停项目的维护，不建议大家使用此代码
+forked from [CGBT/CGBT2](https://github.com/CGBT/CGBT2)
 
 ##晨光PT2.0
 * 使用此代码建站者，必须加入qq群49381438
